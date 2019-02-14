@@ -2,4 +2,4 @@
 
 This is my tutorial repository.
 
-I love :beer :partying :games
+I love :beer: :partying:, :games:
